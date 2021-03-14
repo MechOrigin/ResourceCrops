@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "crops:gold_essence"
+        }
+    },
+    "result": {
+        "item": "minecraft:gold_ingot",
+        "count": 6
+    },
+    "group": "crops"
+}

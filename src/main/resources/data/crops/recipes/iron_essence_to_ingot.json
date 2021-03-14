@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "crops:iron_essence"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_ingot",
+        "count": 6
+    },
+    "group": "crops"
+}

@@ -1,0 +1,20 @@
+{
+    "itemGroup.crops.item_group": "Crops",   
+
+    "item.crops.iron_essence": "Iron Essence",
+    "item.crops.iron_essence.line1": "Combine to create Iron Ingots",
+
+    "block.crops.iron_plant": "Creates the Iron Plant",
+
+    "item.crops.iron_seeds": "Iron Seeds",
+    "item.crops.iron_seeds.line1": "Plant on Farmland to grow Iron Plants",
+
+    "item.crops.gold_essence": "Gold Essence",
+    "item.crops.gold_essence.line1": "Combine to create Gold Ingots",
+
+    "block.crops.gold_plant": "Creates the Gold Plant",
+
+    "item.crops.gold_seeds": "Gold Seeds",
+    "item.crops.gold_seeds.line1": "Plant on Farmland to grow Gold Plants"
+
+}    
